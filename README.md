@@ -9,7 +9,7 @@ hr{height:20px;border-radius:20px;background-color:blue;}
 a{font-family: 'Pacifico', cursive; font-size:35px;font-color:black;}
   </style> </head>
   <body>
-<h1> Tourist-places </h1>
+<br><br>
 <p> Alert !<br>To get more information about places, click on the name of that places.</p>
 <br><br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdCERS81-oYH-7c2vb6nNGURau-iGSegeyg&amp;usqp=CAU"><br>
